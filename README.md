@@ -1,0 +1,1 @@
+link: <a href="http://bakayanton.github.com/Infographics" title="open in new page" target="_blank">bakayanton.github.com/Infographics</a>
